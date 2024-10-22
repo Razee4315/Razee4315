@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Razee1812
+- 👋 Hi, I’m Razee
 - 👀 I’m interested in AI stuff
 - 🌱 I’m currently learning to give machine ability to learn using Math 
 - 📫 How to reach me saqlainrazee@gmail.com
