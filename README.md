@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Razee+👋;Full+Stack+%26+AI+Developer;Android+Developer+%26+ML+Enthusiast;Building+Digital+Solutions+🚀" alt="Typing SVG" />
 </p>
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Razee4315&style=flat-square&color=blue" alt="Profile Views"/>
