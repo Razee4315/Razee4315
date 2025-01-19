@@ -11,8 +11,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Wave GIF" width="100">
 </p>
-<!-- About Me Section -->
-## 💫 About Me
+<!-- About me Section -->
+## 🔥 About me
 I'm a **versatile developer** passionate about crafting innovative solutions that make an impact. Whether it's building intelligent AI systems, designing sleek Android apps, or creating full-stack web solutions, I thrive on the thrill of turning ideas into reality. 🌟
 
 ---
