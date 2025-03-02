@@ -1,12 +1,3 @@
-<!-- Fun Facts -->
-## ⚡ Fun Facts
-- 🔢 Mathematics keeps me on my toes (and sometimes pulls my hair out)
-- 🎮 I'm a tech enthusiast who loves exploring **new technologies**
-- 🌟 Believer in **clean code** and **best practices**
-- 🎯 My goal: **Contributing to open-source projects** that make a real difference
-
----
-
 <!-- Contact -->
 ## 📫 Let's Connect!
 <p align="center">
