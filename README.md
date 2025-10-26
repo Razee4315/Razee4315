@@ -1,8 +1,16 @@
-<!-- Contact -->
-## 📫 Let's Connect!
-<p align="center">
-  <a href="mailto:saqlainrazee@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/saqlainrazee/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
-<p align="center">Happy Coding! 💻</p>
+╔═════════════════════ Hi there ══════════════════════╗ Saqlain Abbas
+║ I'm an AI student & full-stack developer from       ║ ┣━━ BS Artificial Intelligence
+║ Islamabad, Pakistan, studying at NUTECH.            ║ ┃   └━━ NUTECH, Islamabad
+║                                                     ║ ┣━━ Full-Stack Developer
+║ I build intelligent web applications and integrate  ║ ┃   ┣━━ React
+║ AI into full-stack solutions. Experienced in        ║ ┃   ┣━━ Django
+║ training ML models and combining modern web tech    ║ ┃   └━━ WebSocket
+║ with artificial intelligence.                       ║ ┣━━ AI & Machine Learning
+║                                                     ║ ┃   ┣━━ ML Model Training
+║ I love tackling challenging problems and building   ║ ┃   ┣━━ AI Integration
+║ innovative solutions with modern technology.        ║ ┃   └━━ Data Analytics
+║                                                     ║ ┗━━ Python • JavaScript • SQL
+║ Open to collaborations and innovative projects!     ║
+║                                                     ║ Google Data Analytics Certified
+║ Connect: linkedin.com/in/saqlainrazee               ║ saqlainabbasf23@nutech.edu.pk
+╚═════════════════════════════════════════════════════╝
