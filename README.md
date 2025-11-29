@@ -11,7 +11,7 @@
 <span style="color: #000080; text-decoration-color: #000080">║</span> innovative solutions with modern technology.             <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">└━━ </span>Data Analytics        
 <span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>Python • JavaScript • SQL
 <span style="color: #000080; text-decoration-color: #000080">║</span> Open to collaborations and innovative projects!          <span style="color: #000080; text-decoration-color: #000080">║</span>                            
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> Google Data Analytics Certified
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> 
 <span style="color: #000080; text-decoration-color: #000080">║</span> Connect: <a href="https://linkedin.com/in/saqlainrazee">linkedin.com/in/saqlainrazee</a>                    <span style="color: #000080; text-decoration-color: #000080">║</span> saqlainabbasf23@nutech.edu.pk
 <span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>
 </pre>
