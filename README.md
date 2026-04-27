@@ -1,17 +1,30 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> Saqlain Abbas            
-<span style="color: #000080; text-decoration-color: #000080">║</span> I'm an AI student & full-stack developer from            <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>BS Artificial Intelligence
-<span style="color: #000080; text-decoration-color: #000080">║</span> Skardu, Pakistan, studying at NUTECH.                    <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">└━━ </span>NUTECH, Islamabad
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>Full-Stack Developer
-<span style="color: #000080; text-decoration-color: #000080">║</span> I build intelligent web applications and integrate AI    <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>React            
-<span style="color: #000080; text-decoration-color: #000080">║</span> into full-stack solutions. Experienced in training ML    <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>Django         
-<span style="color: #000080; text-decoration-color: #000080">║</span> models and combining modern web tech with artificial     <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">└━━ </span>WebSocket    
-<span style="color: #000080; text-decoration-color: #000080">║</span> intelligence.                                            <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>AI & Machine Learning
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>ML Model Training              
-<span style="color: #000080; text-decoration-color: #000080">║</span> I love tackling challenging problems and building        <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>AI Integration        
-<span style="color: #000080; text-decoration-color: #000080">║</span> innovative solutions with modern technology.             <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">└━━ </span>Data Analytics        
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>Python • JavaScript • SQL
-<span style="color: #000080; text-decoration-color: #000080">║</span> Open to collaborations and innovative projects!          <span style="color: #000080; text-decoration-color: #000080">║</span>                            
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> 
-<span style="color: #000080; text-decoration-color: #000080">║</span> Connect: <a href="https://linkedin.com/in/saqlainrazee">linkedin.com/in/saqlainrazee</a>                    <span style="color: #000080; text-decoration-color: #000080">║</span> saqlainabbasf23@nutech.edu.pk
-<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>
+<pre>
+╔════════════════════════ Hi there ════════════════════════╗  Saqlain Abbas
+║                                                          ║  ┣━━ Currently
+║  AI Engineer · Full-Stack Developer · CTO at VIYLSA      ║  ┃   ┣━━ CTO & Co-founder @ VIYLSA
+║  Building from Skardu, Pakistan.                         ║  ┃   ┗━━ Freelance @ Habfract (Tauri 2.0)
+║                                                          ║  ┣━━ Studying
+║  I ship native desktop tools in Rust + Tauri, AI         ║  ┃   ┗━━ BS Artificial Intelligence · NUTECH
+║  tooling (NetLogo MCP — the first MCP server for         ║  ┣━━ Stack
+║  NetLogo), and full-stack web platforms with React,      ║  ┃   ┣━━ Rust · Tauri · TypeScript
+║  Next.js, FastAPI, and Django.                           ║  ┃   ┣━━ React · Next.js · FastAPI · Django
+║                                                          ║  ┃   ┣━━ Python · Node.js · PostgreSQL
+║  Open to freelance and contract work alongside.          ║  ┃   ┗━━ OpenAI · Claude · Gemini · Ollama
+║                                                          ║  ┗━━ Connect
+║  Portfolio:  saqlainabbas.app                            ║      ┣━━ linkedin.com/in/saqlainrazee
+║  Book call:  calendly.com/saqlainrazee/30min             ║      ┣━━ calendly.com/saqlainrazee/30min
+║  Email:      saqlainrazee@gmail.com                      ║      ┗━━ saqlainrazee@gmail.com
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 </pre>
+
+### Featured projects
+
+- **[OmniRecall](https://github.com/Razee4315/omnirecall)** — cursor-driven AI assistant with document-aware RAG (Tauri + Rust)
+- **[NetLogo MCP](https://github.com/Razee4315/NetLogo-MCP)** — the first MCP server for NetLogo, lets Claude run agent-based simulations
+- **[PortKiller](https://github.com/Razee4315/portkiller)** — keyboard-driven Windows port manager (Tauri + Rust)
+- **[ClipStream](https://github.com/Razee4315/clipstream)** — context-aware clipboard manager with FTS5 search
+- **[MarkLite](https://github.com/Razee4315/MarkLite)** — minimal markdown editor (Tauri + React)
+- **[Pin-It](https://github.com/Razee4315/Pin-It)** — Always-on-Top Windows utility (Tauri v2)
+
+→ Full portfolio at **[saqlainabbas.app](https://saqlainabbas.app)**
