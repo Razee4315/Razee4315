@@ -18,13 +18,3 @@
 ╚══════════════════════════════════════════════════════════╝
 </pre>
 
-### Featured projects
-
-- **[OmniRecall](https://github.com/Razee4315/omnirecall)** — cursor-driven AI assistant with document-aware RAG (Tauri + Rust)
-- **[NetLogo MCP](https://github.com/Razee4315/NetLogo-MCP)** — the first MCP server for NetLogo, lets Claude run agent-based simulations
-- **[PortKiller](https://github.com/Razee4315/portkiller)** — keyboard-driven Windows port manager (Tauri + Rust)
-- **[ClipStream](https://github.com/Razee4315/clipstream)** — context-aware clipboard manager with FTS5 search
-- **[MarkLite](https://github.com/Razee4315/MarkLite)** — minimal markdown editor (Tauri + React)
-- **[Pin-It](https://github.com/Razee4315/Pin-It)** — Always-on-Top Windows utility (Tauri v2)
-
-→ Full portfolio at **[saqlainabbas.app](https://saqlainabbas.app)**
